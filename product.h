@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "codespace.h"
-#include <time.h>
+#include "product.h"
+#include <product.h>
 
 //CRUD 구현
 
